@@ -1,4 +1,7 @@
 # FTM
+## Management
+This repository is managed at a new url [https://github.com/Qing1201/FTM](https://github.com/Qing1201/FTM) now. If you have any questions, please raise an issue at the new url. Thanks!
+ 
 ## Files
 - Codes: FTM.zip
 - Examples: examples.zip
