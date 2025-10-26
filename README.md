@@ -1,7 +1,4 @@
 # FTM
-## Management
-This repository is managed at a new url [https://github.com/Qing1201/FTM](https://github.com/Qing1201/FTM) now. If you have any questions, please raise an issue at the new url. Thanks!
- 
 ## Files
 - Codes: FTM.zip
 - Examples: examples.zip
@@ -90,4 +87,5 @@ e.g.: -l:0,500 -n:1600 means that the interval of temporal graph is [0,500] befo
 - BJD<font size = 8>ATA</font>: A real-life dataset records road traffic conditions in Beijing. There are three traffic conditions (i.e. 2: congested, 1: slow, -1: fast), and are updated every 5 minutes. 
 - EURD<font size = 8>ATA</font>: A real-life dataset for a renewable European electric power system. Each edge represents a transmission line with only static properties, and each node represents a merge point of transmission lines with a dynamic property of the hourly energy demand. 
 - LAND<font size = 8>ATA</font>: A real-life dataset for real-life computer event dataset from the [Los Alamos National Laboratory enterprise network](https://csr.lanl.gov/data/2017/#citing). Each node represents a computer, and each edge represents the communication of two computers with a dynamic property of the average  number of bytes sent.
+
 - SYND<font size = 8>ATA</font>: Synthetic datasets produced by the synthetic data generator.
